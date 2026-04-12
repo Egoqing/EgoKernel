@@ -35,10 +35,10 @@
 
 ### 任务清单
 
-- [ ] **1.1 创建基础头文件**
-  - [ ] `include/types.h` - 基础类型定义
-  - [ ] `include/kernel.h` - 内核通用定义
-  - [ ] `include/config.h` - 配置选项
+- [x] **1.1 创建基础头文件**
+  - [x] `include/types.h` - 基础类型定义
+  - [x] `include/kernel.h` - 内核通用定义
+  - [x] `include/config.h` - 配置选项
 
 - [ ] **1.2 实现启动代码** ⭐ 需要亲自实现
   - [ ] `boot/start.S` - 汇编入口点
